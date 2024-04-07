@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "fifi",
+        "edad": "2 años",
+        "tipodeAnimal": "gato",
+        "color": "negro",
+        "enfermedad": "piojos"
+    },
+    {
+        "nombre": "uyu",
+        "edad": "5 años",
+        "tipodeAnimal": "perro",
+        "color": "blanco",
+        "enfermedad": "vomito"
+    }
+]
